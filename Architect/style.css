@@ -1,0 +1,286 @@
+body{
+	margin: 0;
+	font-family: verdana,sans-serif;
+}
+
+
+
+
+/** CSS WITH CLASSES **/
+
+.ab-auth{
+	height: 28rem;
+}
+
+.ab-container{
+	height: auto;
+}
+
+.ab-content{
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+}
+
+.ab-content p{
+	font-size: 15px;
+}
+
+.ab-pic-container{
+	height: 437px;
+	margin-left: 35px;
+	width: 290px;
+	float: left;
+}
+
+.aim-all{
+	background-size: cover;
+	filter: grayscale(75%);
+}
+
+.aim1{
+	background-image: url(images/team2.jpg);
+}
+
+.aim2{
+	background-image: url(images/team1.jpg);
+}
+
+.aim3{
+	background-image: url(images/team3.jpg);
+}
+
+.aim4{
+	background-image: url(images/team4.jpg);
+}
+
+.auth-contact button{
+	background-color: #f1f1f1;
+	border: none;
+	font-size: 18px;
+	height: 36px;
+	width: 19.29rem;
+}
+
+.auth-contact button:hover{
+	background-color: #ccc;
+}
+
+.auth-info{
+	height: auto;
+	width: 99%;
+}
+
+.auth-move-up{
+	position: relative;
+	bottom: 1rem;
+}
+
+.auth-name{
+	font-size: 22px;
+}
+
+.auth-pic{
+	display: inline-block;
+	height: 205px;
+	width: 309px;
+}
+
+.auth-pos{
+	color: grey;
+	font-size: 15px;
+}
+
+.br{
+	display: inline-block;
+	font-size: 34px;
+	margin-left: 32.5rem;
+	margin-top: 22rem;
+	color: #f1f1f1;
+}
+
+.br1{
+	background-color: black;
+	padding: 17px 14px;
+	opacity: 0.7;
+}
+
+.con-container{
+	height: auto;
+}
+
+.conp{
+	margin-left: 2rem;
+}
+
+.end-banner{
+	background-color: black;
+	color: white;
+	height: 84px;
+	margin-top: 1rem;
+}
+
+.end-banner p{
+	font-size: 15px;
+	position: relative;
+	top: 2rem;
+}
+
+.endim{
+	background-image: url(images/map.jpg);
+	background-size: cover;
+	height: 650px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2rem;
+	width: 95%;
+}
+
+.form-div{
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 95%;
+}
+
+.form-div button{
+	background-color: black;
+	border:none;
+	color: white;
+	font-size: 16px;
+	height: 38px;
+	padding: 11px;
+	width: 10rem; 
+}
+
+.form-div button:hover{
+	background-color: silver;
+	color: black;
+}
+
+.fs-19{
+	font-size: 17px;
+}
+
+.head-line{
+	width: 95%;
+}
+
+.him2{
+	background-image: url(images/house2.jpg);
+	background-size: cover;
+}
+
+.him3{
+	background-image: url(images/house3.jpg);
+	background-size: cover;	
+}
+
+.him4{
+	background-image: url(images/house4.jpg);
+	background-size: cover;	
+}
+
+.him5{
+	background-image: url(images/house5.jpg);
+	background-size: cover;	
+}
+
+.housepic{
+	display: inline-block;
+	height: 205px;
+	margin-bottom: 1rem;
+	margin-right: 10px;
+	width: 309px;
+}
+
+.housepic div{
+	background-color: black;
+	color: white;
+	display: inline-block;
+	font-size: 15px;
+	padding: 8px 16px;
+}
+
+.in-block{
+	display: inline-block;
+}
+
+.in-style{
+	font-size: 16px;
+	height: 25px;
+	margin-bottom: 1rem;
+	padding: 8px;
+	width: 98.5%;
+}
+
+.logo{
+	margin-left: 2rem;
+	margin-top: 7px;
+	text-align: center;
+	width: 12rem;
+	word-spacing: 1px;
+}
+
+.logo1{
+	font-weight: bolder;
+	letter-spacing: 5px;
+}
+
+.logo2{
+	letter-spacing: 4px;
+}
+
+.ls-4{
+	letter-spacing: 4px;
+}
+.main-pic{
+	background-image: url(images/architect.jpg);
+	background-size: cover;
+	height: 675px;
+	width: 100%;
+}
+
+.move-right-nav{
+	left: 47rem;
+	position: relative;
+}
+
+.navbar{
+	background-color: white;
+	box-shadow: 0px 1px 10px grey;
+	height: 52px;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+	width: 100%;
+	z-index: 1;
+}
+
+.nav-butt:hover{
+	background-color: silver;
+}
+
+.nav-link{
+	color: black;
+	text-decoration: none;
+}
+
+.pad-7{
+	padding: 7px;
+}
+
+.pro-container{
+	height: auto;
+}
+
+.pro-content{
+	height: auto;
+	padding-left: 2rem;
+	padding-top: 1rem;
+}
+
+.page-head{
+	font-size: 24px;
+	margin-left: 2rem;
+}
